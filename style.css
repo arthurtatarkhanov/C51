@@ -1,0 +1,37 @@
+*{
+    background-color:#acda41;
+    background-position: center;
+    background-clip: border-box;
+}
+h1 {
+    color: brown;
+    
+}
+.header{
+    background-color:wheat;
+    display:flex;
+    justify-content:space-between;  
+}
+.menu{
+    background-color:orange;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+p,h2{
+    text-align: center;
+    font-family: cursive    ;
+    font-weight:700;
+    font-style:oblique;
+    font-variant:small-caps;
+    font-stretch:wider;
+    font-synthesis:style;
+    line-height:0vw;
+
+}
